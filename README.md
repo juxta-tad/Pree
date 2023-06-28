@@ -1,3 +1,3 @@
 # Pree
 
-Veiw and debug your progams structure with this
+View and debug your progams structure with this
