@@ -1,3 +1,3 @@
 # Pree
 
-View and debug your progams structure with this
+View and debug your program structure with this
